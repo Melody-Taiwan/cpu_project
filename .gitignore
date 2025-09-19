@@ -1,0 +1,4 @@
+verilog/sim/build.out
+a.out
+*.vcd
+*.vvp
